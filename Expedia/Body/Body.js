@@ -109,7 +109,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-// new code
 
 // JavaScript for expanding and collapsing sections
 document.addEventListener('DOMContentLoaded', function () {
@@ -151,7 +150,5 @@ function previousSlide() {
 }
 
 showSlide(currentSlideIndex);
-
-// You can add event listeners to buttons to trigger nextSlide() and previousSlide()
 
 
